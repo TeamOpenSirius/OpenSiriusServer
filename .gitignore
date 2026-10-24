@@ -1,0 +1,6 @@
+.codegraph
+.git
+.idea
+go.sum
+data
+references
